@@ -1,0 +1,111 @@
+﻿body {
+    background-color: black;
+}
+
+header {
+    font-color: red;
+    font-family: Arial;
+}
+
+nav {
+    background-color: red;
+    color: red;
+}
+
+a {
+    text-decoration: none;
+}
+
+    a:hover {
+        color: red;
+        text-decoration: underline;
+    }
+
+#wrapper {
+    background-color: red;
+    font-family: Calibri;
+    color: white;
+    height: 300px;
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#aboutwrap {
+    background-color: black;
+    color: white;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+}
+
+aside {
+    float: right;
+    width: 560px;
+    height: 560px;
+}
+
+p {
+    font-family: Calibri;
+}
+
+footer {
+    font-style: italic;
+    color: white;
+}
+
+#slider {
+    overflow: hidden;
+}
+
+    #slider figure {
+        position: relative;
+        width: 500%;
+        margin: 0;
+        left: 0;
+        animation: 20s slider infinite;
+    }
+
+        #slider figure img {
+            width: 20%;
+            float: left;
+        }
+
+@keyframes slider {
+    0% {
+        left: 0;
+    }
+
+    20% {
+        left: 0;
+    }
+
+    25% {
+        left: -100%;
+    }
+
+    45% {
+        left: -100%;
+    }
+
+    50% {
+        left: -200%;
+    }
+
+    70% {
+        left: -200%;
+    }
+
+    75% {
+        left: -300%;
+    }
+
+    95% {
+        left: -300%;
+    }
+
+    100% {
+        left: -400%;
+    }
+}
