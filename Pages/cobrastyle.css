@@ -1,9 +1,9 @@
 ﻿body {
-    background-color: black;
+    background-color: rgb(38, 38, 90);
 }
 
 header {
-    font-color: red;
+    font-color: rgb(16, 204, 16);
     font-family: Arial;
 }
 
