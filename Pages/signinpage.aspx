@@ -86,10 +86,10 @@
             <asp:Button ID="Button2" runat="server" Text="Create Account" Width="172px" /><br /><br />
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-            <a href="https://www.facebook.com/CobraKaiSeries/"><img src="fblogo.png" class="auto-style5" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-            <a href="https://www.youtube.com/channel/UCe9DTWmhhxeKyYHL4mldGcA"><img src="youtubelogo.png" class="auto-style5" width="80" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-            <a href="https://twitter.com/CobraKaiSeries?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"><img src="twittlogo.png" class="auto-style5" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-            <a href="https://www.instagram.com/cobrakaiseries/?hl=en"><img src="instalogo.png" class="auto-style5" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="https://www.facebook.com/CobraKaiSeries/" target="_blank"><img src="fblogo.png" class="auto-style5" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="https://www.youtube.com/channel/UCe9DTWmhhxeKyYHL4mldGcA" target="_blank"><img src="youtubelogo.png" class="auto-style5" width="80" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="https://twitter.com/CobraKaiSeries?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" target="_blank"><img src="twittlogo.png" class="auto-style5" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="https://www.instagram.com/cobrakaiseries/?hl=en" target="_blank"><img src="instalogo.png" class="auto-style5" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
         </div>
         <br /><br /><br /><br /><br /><br /><br />
     </form>
