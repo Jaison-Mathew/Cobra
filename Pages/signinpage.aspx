@@ -1,4 +1,4 @@
-﻿<%@ Page Language="VB" AutoEventWireup="false" CodeFile="signinpage.aspx.vb" Inherits="Pages_signinpage" %>
+﻿<%@ Page Language="VB" AutoEventWireup="false" CodeFile="aboutpage.aspx.vb" Inherits="aboutpage" %>
 
 <!DOCTYPE html>
 
